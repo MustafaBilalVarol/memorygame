@@ -1,0 +1,3 @@
+Oyunumuz 3x3 bir hafıza oyunudur. Eşleşen kelimeleri bulduğunuz taktirde kartlar ters dönmeyecektir. Bütün kelimeleri
+eşleştirdiğinizde oyun sona erecektir. Toplam 9 kart olduğundan dolayı bir adet bomba kart bulunmaktadır, bu da fazladan hamle
+yapılmasına neden olur. Skor tutulmaktadır.
